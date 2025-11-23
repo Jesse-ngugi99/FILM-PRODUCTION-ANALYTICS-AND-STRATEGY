@@ -1,4 +1,3 @@
-# PHASE_TWO_PROJECT
 ## OVERVIEW
 This project perfoms in depth analysis with a data science approach with an aim of assisting a new company navigate the film and production industry. This will be done by uncovering trends and insights in the datasets provided, that will guide informed and strategic decision making.
 ## BUSINESS UNDERSTANDING
